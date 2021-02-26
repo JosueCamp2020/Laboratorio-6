@@ -76,11 +76,11 @@ RESPUESTA = 3V
 
 * ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-RESPUESTA = 4.89V
+RESPUESTA = 4 cuadros
 
 * ¿En qué valor está posicionada la perilla TIME/DIV? 
 
-RESPUESTA = 6.1m
+RESPUESTA = 0.1m
 
 * 7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
