@@ -37,6 +37,7 @@
 
 5. EXPLICACIÓN / RESOLUCIÓN
 
+* Usando el simulador dcaclabse procede a colocar los materiales necesarios en el campo de trabajo donde se ajustara el generador de funciones el cual deberá proporcionar una señal de 20Vpp a una frecuencia de 2.5 Khz, después se ajusta los resistores los cuales tendrán el valor de 1Komh y de 2.2Komh respectivamente y una vez armado el circuito se procede a conectar el osciloscopio al resistor de carga RL donde sé podra observar la señal de la onda senoidal del circuito dado.
 
 6. MANUAL DE USUARIO
 
