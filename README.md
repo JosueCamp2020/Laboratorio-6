@@ -64,31 +64,39 @@
 8. PREGUNTAS
 
 * ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
-2.5 divisiones
+
+RESPUESTA = 2.5 divisiones
 
 * ¿En qué valor está posicionada la perilla VOLTS/DIV?
-3V
+
+RESPUESTA = 3V
 
 * ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
-4.89V
+
+RESPUESTA = 4.89V
 
 * ¿En qué valor está posicionada la perilla TIME/DIV? 
-6.1m
+
+RESPUESTA = 6.1m
 
 * 7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
-Amplitud de voltaje: 6.88(V)
-Periodo: 0.0004(s)
+
+RESPUESTA = Amplitud de voltaje: 6.88(V)
+RESPUESTA = Periodo: 0.0004(s)
 
 * 7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
-f: 2500(Hz)
-ω: 5000π(rad/s)
+
+RESPUESTA = f: 2500(Hz)
+RESPUESTA = ω: 5000π(rad/s)
 
 * 7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 
-4.89(V)
+
+RESPUESTA = 4.89(V)
 
 * 7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 ¿Coinciden? _______ ¿Por qué?
-No coinciden ya que el uno arroja un valor de 6.88v y otro 4.89, el valor de 6.88v es el valor pico de la onda senoidal y 4.89 es el valor del voltaje de salida de RL.
+
+RESPUESTA = No coinciden ya que el uno arroja un valor de 6.88v y otro 4.89, el valor de 6.88v es el valor pico de la onda senoidal y 4.89 es el valor del voltaje de salida de RL.
 
 9. BIBLIOGRAFIA
 
