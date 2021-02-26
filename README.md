@@ -91,3 +91,8 @@ f: 2500(Hz)
 No coinciden ya que el uno arroja un valor de 6.88v y otro 4.89, el valor de 6.88v es el valor pico de la onda senoidal y 4.89 es el valor del voltaje de salida de RL.
 
 9. BIBLIOGRAFIA
+
+* Zapata, F. (22 de agosto de 2019). lifeder.com. Obtenido de https://www.lifeder.com/onda-senoidal/
+* Wolfgang , C., & Kyle , F. (17 de 04 de 2018). compadre.org. Obtenido de https://www.compadre.org/osp/EJSS/4415/210.htm
+
+
